@@ -18,6 +18,6 @@ simple directions the password will appear in the generator.
 
 ![The Password Generator application displays a red button to "Generate Password".](/images/Screen%20Shot%202022-08-18%20at%2010.54.55%20PM.png)
 
-[Live Portfolio Webpage]()
+[Live Portfolio Webpage](https://ajenkinsynwa.github.io/password-generator-/)
 
 [Github Link](https://github.com/ajenkinsynwa/password-generator-/tree/master)
